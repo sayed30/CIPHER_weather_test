@@ -1,0 +1,11 @@
+
+
+Included in the directory CIPHER_weather_test is the two CSV files used by my program.
+Also, included is solution.py that holds my code to parse the CSVs and output the answers.
+
+Technologies used: Python3.7, Pip, Pandas 
+
+Usage: Inside the root directory of CIPHER_weather_test run:
+       source bin/activate
+
+To Run:  python3 solution.py
